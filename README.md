@@ -1,6 +1,6 @@
 ---
 author:
-- Sadia Mostofa
+- Mohammad Badal Ahmmed(badalahmmed@gmail.com) and Sadia Mostofa
 title: Analysis of Solar Wind Speed and Density Correlation Across Solar
   Cycles 23 and 24 Using OMNI Data
 ---
